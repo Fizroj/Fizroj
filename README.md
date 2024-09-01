@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on God knows what
 - 📫 How to reach me is not that obvious
 - 😄 Pronouns: spider/man
-- ⚡ Fun fact: Win+; opens up an emoji menu 
+- ⚡ Fun fact: Win+; on the keyboard opens up an emoji menu 
 
 <!---
 Fizroj/Fizroj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
